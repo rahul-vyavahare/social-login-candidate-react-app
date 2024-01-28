@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/social-login-candidate-react-app/static/css/main.a0c79a04.css",
+    "main.js": "/social-login-candidate-react-app/static/js/main.fb5e424b.js",
+    "static/media/error-img.png": "/social-login-candidate-react-app/static/media/error-img.76374ff168e1e97f318b.png",
+    "index.html": "/social-login-candidate-react-app/index.html",
+    "main.a0c79a04.css.map": "/social-login-candidate-react-app/static/css/main.a0c79a04.css.map",
+    "main.fb5e424b.js.map": "/social-login-candidate-react-app/static/js/main.fb5e424b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0c79a04.css",
+    "static/js/main.fb5e424b.js"
+  ]
+}
